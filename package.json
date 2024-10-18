@@ -1,0 +1,11 @@
+{
+  "name": "nithya",
+  "version": "1.0.0",
+  "main": "nithya.js",
+  "scripts": {
+    "start": "node nithya.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
